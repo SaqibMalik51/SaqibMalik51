@@ -28,7 +28,7 @@ Feel free to explore my projects, review the code, and provide feedback. Constru
 
 I'm open to collaborations, sharing knowledge, and helping others in their learning journey. Feel free to connect with me through the following channels:
 
-- GitHub: @SaqibMalik51
-- Email: maliksaqib7628@gmail.com
+- GitHub: @maliksaqibahmad
+- Email: maliksaqibahmad.dev@proton.me
 
 Thank you for visiting my GitHub profile. Let's learn and grow together in the vast world of full-stack web development! Happy coding! 🚀
